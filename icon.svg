@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" fill="#1a1a2e"/>
+  <rect x="24" y="24" width="80" height="80" fill="#16213e" stroke="#00ff7f" stroke-width="2"/>
+  <rect x="32" y="32" width="16" height="16" fill="#ff6b6b"/>
+  <rect x="80" y="32" width="16" height="16" fill="#4ecdc4"/>
+  <rect x="32" y="80" width="16" height="16" fill="#45b7d1"/>
+  <rect x="80" y="80" width="16" height="16" fill="#f9ca24"/>
+  <rect x="56" y="56" width="16" height="16" fill="#f0932b"/>
+  <text x="64" y="116" text-anchor="middle" fill="#00ff7f" font-family="monospace" font-size="12">LevelUp</text>
+</svg>
